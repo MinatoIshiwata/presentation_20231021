@@ -1,16 +1,6 @@
-# presentation_20231021
+【大規模】第4回クリエイター広場交流&勉強会10/21(土)@新橋
+株式会社Pentagon
+石渡港
+https://pentagon.tokyo/
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://speakerdeck.com/minatoishiwata/flutterdefigmanodezainnihe-wasete-katutirisitashi-zhuang-surufang-fa-nituite
